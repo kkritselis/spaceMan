@@ -1,0 +1,9 @@
+/* Basic CSS for p5.js Starter Project */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
